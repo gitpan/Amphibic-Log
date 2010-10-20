@@ -1,7 +1,7 @@
 package # Hide from PAUSE
   Amphibic::Log::Entry;
 BEGIN {
-  $Amphibic::Log::Entry::VERSION = '0.01';
+  $Amphibic::Log::Entry::VERSION = '0.02';
 }
 
 use Moose;

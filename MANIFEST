@@ -13,16 +13,3 @@ t/302_log_trace.t
 t/400_log_output.t
 t/release-pod-coverage.t
 t/release-pod-syntax.t
-www/Amphibic/Log.pm.html
-www/Amphibic/Log/Entry.pm.html
-www/Amphibic/Log/Transport.pm.html
-www/Amphibic/Log/Transport/STDERR.pm.html
-www/index.html
-www/podstyle.css
-www/src/Amphibic/Log.pm
-www/src/Amphibic/Log/Entry.pm
-www/src/Amphibic/Log/Transport.pm
-www/src/Amphibic/Log/Transport/STDERR.pm
-www/src/test.pl
-www/test.pl.html
-www/up.gif

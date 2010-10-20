@@ -1,6 +1,6 @@
 package Amphibic::Log;
 BEGIN {
-  $Amphibic::Log::VERSION = '0.01';
+  $Amphibic::Log::VERSION = '0.02';
 }
 
 # ABSTRACT: Because logging should be fun
@@ -78,7 +78,7 @@ Amphibic::Log - Because logging should be fun
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 

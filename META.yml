@@ -16,4 +16,4 @@ meta-spec:
 name: Amphibic-Log
 requires:
   Moose: 1.15
-version: 0.01
+version: 0.02
